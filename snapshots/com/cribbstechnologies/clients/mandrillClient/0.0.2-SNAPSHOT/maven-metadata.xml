@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.cribbstechnologies.clients</groupId>
   <artifactId>mandrillClient</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130306.173839</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20130306.173940</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130306173839</lastUpdated>
+    <lastUpdated>20130306173940</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20130306.173839-2</value>
-        <updated>20130306173839</updated>
+        <value>0.0.2-20130306.173940-1</value>
+        <updated>20130306173940</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20130306.173839-2</value>
-        <updated>20130306173839</updated>
+        <value>0.0.2-20130306.173940-1</value>
+        <updated>20130306173940</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
